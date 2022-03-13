@@ -1,0 +1,36 @@
+body {
+    background-color: powderblue;
+}
+
+button {
+    color: rgb(27, 1, 27);
+    background-color: plum;
+    padding: 20px 5px 20px 10px;
+    margin: 5px 10px 5px 10px;
+}
+
+img {
+    margin-left: 180px;
+    padding: 5px 10px;
+}
+
+.sidebar {
+    margin: center;
+    width: 500px;
+    height: 100px;
+}
+
+.center {
+    width: 100%;
+    margin: 20px 5px 10px 150px;
+}
+
+.center div {
+    width: 50%;
+}
+
+.text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    padding: 10px 10px 10px 10px
+}
